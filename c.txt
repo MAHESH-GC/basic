@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9E14-8579
+
+ Directory of C:\Users\hitesh\Desktop\basic
+
+09/23/2020  01:45 PM    <DIR>          .
+09/23/2020  01:45 PM    <DIR>          ..
+09/23/2020  01:45 PM                 0 listjpg.txt
+09/23/2020  01:45 PM                 0 listmyfolder.txt
+               2 File(s)              0 bytes
+               2 Dir(s)  42,781,986,816 bytes free
